@@ -1,4 +1,4 @@
-# SE-FrontEnd-Project
+# GUC Portal System
 This project was part of software engineering course.
 The aim of the project is to design a UI/UX prototype for the GUC portal system to be more user friendly.
 also applied the concepts of Agile in Software Engineering.
