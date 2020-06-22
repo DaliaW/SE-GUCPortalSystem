@@ -8,4 +8,4 @@ It contains UI/UX design using Figma.
 
 To see the whole prototype click the link below:
 
-shorturl.at/jINV2
+https://lnkd.in/dWrsc8s
